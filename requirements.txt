@@ -1,0 +1,8 @@
+gradio
+stable-baselines3[extra]
+gymnasium[classic-control]
+ortools
+torch
+pandas
+numpy
+scikit-learn

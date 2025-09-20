@@ -1,0 +1,27 @@
+[
+  {
+    "task": "Experiment A",
+    "priority": 1,
+    "duration": 2
+  },
+  {
+    "task": "Exercise",
+    "priority": 1,
+    "duration": 1
+  },
+  {
+    "task": "Maintenance",
+    "priority": 2,
+    "duration": 2
+  },
+  {
+    "task": "Meal",
+    "priority": 0,
+    "duration": 1
+  },
+  {
+    "task": "Leisure",
+    "priority": 3,
+    "duration": 1
+  }
+]
