@@ -1,2 +1,2 @@
 # Astronaut-Daily-Planner
-A prototype of professional daily planner for Astronauts . 
+AI/ML-based astronaut daily planner with adaptive scheduling and fatigue prediction.
